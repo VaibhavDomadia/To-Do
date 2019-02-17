@@ -11,6 +11,10 @@
     box-shadow: 0 0 8px #555;
 }
 
+.tasknode:hover {
+    box-shadow: 0 0 16px #555;
+}
+
 
 
 
